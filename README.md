@@ -1,4 +1,4 @@
-#GNInk - code and more
+# GNInk - code and more
 
 Hi, I'm a curious young developer currently working on small projects.
 I'm learning various different languages :

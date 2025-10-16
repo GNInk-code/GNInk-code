@@ -6,4 +6,4 @@ I aleardy have some knowledge in code and am learning other different languages 
  - [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]() - Intermediate level
  - [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)]() - Intermediate level
  - [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]() - Intermediate level
- - [![c++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]() - Intermediate level
+ - [![c++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)]() - Intermediate level
